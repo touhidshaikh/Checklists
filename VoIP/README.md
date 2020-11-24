@@ -1,12 +1,13 @@
 # VoIP Assesment Methodology
---
-    -   APPLICATION SCOPING
-    -   MAPPING AND SERVICE IDENTIFICATION
-    -   RECONNAISSANCE AND ENUMERATION
-    -   VULNERABILITY ANALYSIS
-    -   EXPLOITATION
-    -   STRATEGIC MITIGATION
-    -   PATCH VERIFICATION
+--------------------------------------
+
+    -  APPLICATION SCOPING
+    -  MAPPING AND SERVICE IDENTIFICATION
+    -  RECONNAISSANCE AND ENUMERATION
+    -  VULNERABILITY ANALYSIS
+    -  EXPLOITATION
+    -  STRATEGIC MITIGATION
+    -  PATCH VERIFICATION
 
  **RECONNAISSANCE AND ENUMERATION**
  
@@ -24,6 +25,7 @@ And many more questions also below,
 These are all questions that need to be answered during the initial phase of the VoIP assesment and pentest.
 
 **VULNERABILITY ANALYSIS**
+
 In this phase we focus to identifiy the security vulnerability on the implentation on the VoIP according to our organization standard and know standards.
 We look for different vulnerabilities listed below.
 -  Extension Enumeration & Number Harvesting
@@ -53,10 +55,13 @@ We look for different vulnerabilities listed below.
 -  Phone Firmware Analysis
   
 **EXPLOITATION**
+
 This is the phase we exploitated the found flaws and try to get more information or impact using the flaws and also try to get a persistance access.
 
 **STRATEGIC MITIGATION**
+
 In these phase we recommended the mitigation from the found attack with proper explainatioin and support.
 
 **STRATEGIC MITIGATION**
+
 In these phase we retest the vulnerabilitie wheather they fixed of not and also try to bypass the current mitigation to reverify the mitigation is proper implemented.
