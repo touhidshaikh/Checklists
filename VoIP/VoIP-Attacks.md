@@ -1,0 +1,27 @@
+
+# Possible attacks against VoIP
+- Extension Enumeration & Number Harvesting
+- Identification of insecure services
+- Testing for Default Credentials
+- SIP attacks
+    - Rogue SIP B2BUA
+    - SIP rogue as a proxy
+    - SIP registration hijacking
+    - Capturing SIP Authentication
+- Application level vulnerabilities
+- Denial of Service (DoS) attacks
+    - Smurf flooding attack
+    - TCP SYN flood attack
+    - UDP flooding attack
+- Registration Manipulation and Hijacking
+- Authentication attacks
+- Caller ID spoofing
+- Man-in-the-middle attacks
+- VLAN Hopping
+- Passive and Active Eavesdropping
+- Spamming over Internet Telephony (SPIT)
+- VoIP phishing (Vishing)
+- RTP injection 
+- Signaling Manipulation
+- Voice Mail Attacks
+- Phone Firmware Analysis
